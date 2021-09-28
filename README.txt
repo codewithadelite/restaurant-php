@@ -1,15 +1,5 @@
-COPYRIGHT © Irezon.COM
-ALL RIGHTS RESERVED
-
-
-This work is under Creative Commons Attribution
-http://Irezon.com
-
-This means you may use it and make any changes you like. 
+This project you may use it and make any changes you like. 
  
-For more information visit:
-http://www.Irezon.com/
-##########################################
 Used Languages:
 HTML,BOOTSTRAP,PHP,MYSQLI
 ##########################################
